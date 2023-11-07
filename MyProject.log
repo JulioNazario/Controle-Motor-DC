@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\TesteJulio\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\TesteJulio\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "TesteJulioArquivo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_b3.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	TesteJulioArquivo.c
+diagnostics: 70	123	Compiled Successfully	TesteJulioArquivo.c
+hint: 53	1164	Variable 'cont' has been eliminated by optimizer	TesteJulioArquivo.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 64 (31%)  Free RAM (bytes): 144 (69%)	Used RAM (bytes): 64 (31%)  Free RAM (bytes): 144 (69%)
+hint: 0	1144	Used ROM (program words): 502 (25%)  Free ROM (program words): 1546 (75%)	Used ROM (program words): 502 (25%)  Free ROM (program words): 1546 (75%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 282 ms	 
+diagnostics: 0	103	Finished successfully: 05 nov 2023, 22:42:00	MyProject.mcppi
